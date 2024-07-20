@@ -15,7 +15,7 @@ This project is a simple C++ application that manages a queue of passengers for 
 
 1. **Clone the repository**:
    ```sh
-  -git clone https://github.com/yourusername/passenger-queue-management.git
+   git clone https://github.com/yourusername/passenger-queue-management.git
   
 2. **Compile the code**:
    g++ -o passenger_queue passenger_queue.cpp
