@@ -47,9 +47,9 @@ Welcome to the Passenger Queue Management System
 6. View the operation log
 7. Exit
 
-Enter your choice: 1
-Enter passenger name: John Doe
-Enter flight number: AB123
-Enter priority (1-10): 5
-Passenger added successfully!
+1) Enter your choice: 1
+2) Enter passenger name: John Doe
+3) Enter flight number: AB123
+4) Enter priority (1-10): 5
+5) Passenger added successfully!
 
